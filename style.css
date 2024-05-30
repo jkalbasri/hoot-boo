@@ -124,12 +124,12 @@ body button {
   text-transform: uppercase;
   cursor: pointer;
   font-size: 30px;
-  background-color: #0066ff;
+  background-color: #0077E3;
   transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.3s;
   color: #fff;
 }
 body button:hover, body button:focus {
-  background-color: #0066ff;
+  background-color: #0077E3;
 }
 
 @media screen and (max-width: 990px) {
