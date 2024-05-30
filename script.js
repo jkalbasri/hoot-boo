@@ -100,7 +100,7 @@ new Vue({
 
       const light2 = new Lamp({
         position: new Vec2(parseInt(_this.position.x), parseInt(_this.position.y)),
-        color: '#d66a00',
+        color: '#0066ff',
         distance: 180,
         radius: 5,
         samples: 3
